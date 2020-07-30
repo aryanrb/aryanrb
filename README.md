@@ -1,5 +1,5 @@
 
-### Hi there👋, I'm Aryan Rajbhandari[website] 👋
+### Hi there👋, I'm Aryan Rajbhandari [website] 👋
 
 ## About me!
 - 🔭 I’m currently Learning 👨‍💻
