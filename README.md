@@ -25,7 +25,6 @@
 
 ### Stay safe and Keep learning
 
-<img align="left" alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanrb&show_icons=true&hide_border=true" />
 
 [website]: https://aryanrb.github.io/
 [twitter]: https://twitter.com/Aryanrb10
@@ -36,6 +35,7 @@
 
 <!--
 **aryanrb/aryanrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanrb&show_icons=true&hide_border=true" />
 
 Here are some ideas to get you started:
 
