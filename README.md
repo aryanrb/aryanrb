@@ -1,16 +1,20 @@
 ![](https://komarev.com/ghpvc/?username=aryanrb)
-### Hi there👋, I'm Aryan Rajbhandari [website] 
+### Hi there👋, I'm [Aryan Rajbhandari] 
 
 <br />
 
-## Languages and Tools:
+<!-- ## Languages and Tools: -->
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
+<br /> -->
+
+## My Github Stats
+<img src="https://github-profile-trophy.vercel.app/?username=aryanrb&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 <br />
 
 ## Connect with me:
@@ -27,7 +31,7 @@
 ---
 
 
-[website]: https://aryanrb.github.io/
+[Aryan Rajbhandari]: https://aryanrb.github.io/
 [twitter]: https://twitter.com/Aryanrb10
 [youtube]: https://www.youtube.com/channel/UCXs5YqPWmMTbtBReTeX2Pkw
 [instagram]: https://www.instagram.com/aryan.rajbhandari/
