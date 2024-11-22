@@ -13,7 +13,7 @@ Learning and building tools.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanrb&layout=compact&hide=css,html)
 
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryanrb&count_private=true&show_icons=true&theme=onedark)
+<!--![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryanrb&count_private=true&show_icons=true&theme=onedark) --->
 
 </details>
 
