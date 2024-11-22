@@ -4,8 +4,9 @@
 
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 I'm [Aryan Rajbhandari] 
-I'm learning and building tools.
-
+<br />
+Learning and building tools.
+<br />
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
@@ -16,7 +17,7 @@ I'm learning and building tools.
 
 </details>
 
-## Connect with me:
+Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -24,9 +25,6 @@ I'm learning and building tools.
 [<img align="left" alt="codeSTACKr | Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
-
----
 
 
 [Aryan Rajbhandari]: https://aryanrb.github.io/
